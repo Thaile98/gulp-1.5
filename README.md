@@ -1,15 +1,16 @@
 # Bài tập Trainee Colombo 2018
 
-## Todolist-Thaile
+## Gulp_1.5-Thaile
 
-Tạo một phiên bản to do list cơ bản.
+Tạo project cấu trúc html kết hợp gulp sass. Dùng cú pháp sass để viết ngắn lại css cũ 
 
 Thực hiện bởi [Lê Văn Thái](https://github.com/Thaile98)
 
 ## Liên kết
 
-- Đề bài: https://docs.google.com/spreadsheets/d/1ar80XJA8GLDy6pvL7yOzjp9ykJ1vjxq2jqwMiqxa9s8/edit?ts=5af8fb0d#gid=1914531595
-          http://todomvc.com/examples/jquery/#/all
+- Đề bài: https://docs.google.com/spreadsheets/d/1ar80XJA8GLDy6pvL7yOzjp9ykJ1vjxq2jqwMiqxa9s8/edit?ts=5af8fb0d#gid=899777009
+          https://css-tricks.com/gulp-for-beginners/
+          https://sass-guidelin.es/#the-7-1-pattern
 
 - Bài làm: 
  - https://thaile98.github.io/jquery/index.html
